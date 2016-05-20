@@ -1,0 +1,43 @@
+body
+{
+
+}
+
+.chuj1
+{
+	width: 100%;
+}
+
+.chujowe
+{
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: justify;
+	padding-top: 10px;
+}
+.rekrutacja
+{
+	color: white;
+    font-size:3em;
+	text-shadow:2px 3px 6px black;
+    font-size:45px;
+    padding:50px;
+	width: 1000px;
+	float: center;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+
+#bg-video {
+     position: fixed;
+     right: 0;
+     bottom: 0;
+     min-width: 100%;
+     min-height: 100%;
+     width: auto;
+     height: auto;
+     z-index: -100;
+}
